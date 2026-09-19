@@ -1,0 +1,12 @@
+# Ignore compiled executables and object binaries
+*.o
+*.exe
+prompt_manager
+
+# Ignore local SQLite database storage files
+*.db
+*.db-journal
+*.sqlite3
+
+# Ignore temporary VS Code configuration directories
+.vscode/
